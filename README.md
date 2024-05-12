@@ -3,7 +3,7 @@
 <body>
     <h1>Q-Bot</h1>
     <h2>A LEGO Mindstorms Rubik's Cube Solver using ROBOTC</h2>
-    <p>Welcome to the GitHub of Derran, Anmeet, Souren, and Brandon's Rubik's cube solver, an advanced LEGO Mindstorms project that automates the solving of a Rubik's Cube using the power of ROBOTC and the TwoPhaseSolver algorithm. We're all Waterloo students taking Mechatronics   Engineering and this is our 1A (First Term) culminating project.
+    <p>Welcome to the GitHub of the Q-Bot which is Derran, Anmeet, Souren, and Brandon's Rubik's cube solver, an advanced LEGO Mindstorms project that automates the solving of a Rubik's Cube using the power of ROBOTC and the TwoPhaseSolver algorithm. We're all Waterloo students taking Mechatronics   Engineering and this is our 1A (First Term) culminating project.
     </p>
 
  <h2>Project Overview</h2>
